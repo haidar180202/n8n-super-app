@@ -1,1 +1,14 @@
+# n8n decrypted workflow file (Important: do not push plain JSON to public repo)
 supreme.json
+
+# n8n and Postgres local data volumes
+n8n_data/
+postgres_data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and environment variables
+*.log
+.env
